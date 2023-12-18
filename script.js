@@ -1,3 +1,1 @@
-body{
-    width:100%;
-}
+document.write("Hello world";)
