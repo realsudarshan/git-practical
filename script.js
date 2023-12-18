@@ -1,2 +1,2 @@
-document.write("Hello world");
+document.write("Hello javacript");
 document.write("added")
